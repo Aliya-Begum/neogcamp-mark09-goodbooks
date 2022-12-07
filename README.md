@@ -1,7 +1,8 @@
-# neogcamp-mark09-goodbooks
+# Book Recommendation App
 This is a React based app. You will find some good recommondation for various genre.
 
-## Link - https://csb-wqhiy6.netlify.app/
+## Link 
+https://csb-wqhiy6.netlify.app/
 
 ## Technology used
 * React JS
